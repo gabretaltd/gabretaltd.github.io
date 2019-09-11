@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Boris Dušek
-email: me@dusek.me
+title: Gabreta Ltd
+email: info@gabreta.ltd
 description: > # this means to ignore newlines until "baseurl:"
-  Accessibility Software Engineer homepage
+  Gabreta Ltd is a private limited company registered in England and Wales under registration number <a href="https://beta.companieshouse.gov.uk/company/12194286">12194286</a> and its registered office is at Unit 4, Vista Place Coy Pond Business Park, Ingworth Road, Poole, Dorset, England, BH12 1JY.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dusek.me" # the base hostname & protocol for your site
-twitter_username: BorisDusek
-github_username:  dusek
+url: "https://gabretaltd.github.io" # the base hostname & protocol for your site
+#twitter_username: BorisDusek
+github_username:  gabretaltd
 # Build settings
 markdown: kramdown
