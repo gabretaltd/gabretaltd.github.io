@@ -16,3 +16,5 @@ url: "https://gabretaltd.github.io" # the base hostname & protocol for your site
 github_username:  gabretaltd
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
