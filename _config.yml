@@ -9,7 +9,7 @@
 title: Gabreta Ltd
 email: info@gabreta.ltd
 description: > # this means to ignore newlines until "baseurl:"
-  Gabreta Ltd is a private limited company registered in England and Wales under registration number <a href="https://beta.companieshouse.gov.uk/company/12194286">12194286</a> and its registered office is at Unit 4, Vista Place Coy Pond Business Park, Ingworth Road, Poole, Dorset, England, BH12 1JY.
+  Digital Accessibility & Software Engineering Consultancy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabretaltd.github.io" # the base hostname & protocol for your site
 #twitter_username: BorisDusek
